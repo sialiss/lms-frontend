@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Hi+Melody&display=swap');
+
+
+body {
+    background: rgb(176, 229, 249);
+}
+
+div {
+    white-space: pre-line;
+    padding-left: 2%;
+}
+
+.melody {
+    font-family: 'Hi Melody';
+}
+
+.diphylleia {
+    font-family: 'Diphylleia';
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.darkblue {
+    color: darkblue;
+}
+
+.smaller {
+    font-size: smaller;
+}
+
+.larger {
+    font-size: larger;
+}

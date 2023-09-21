@@ -1,0 +1,42 @@
+html {
+    margin: 0;
+    padding: 1%;
+}
+
+body {
+    padding: auto;
+    font-family: century gothic;
+    background: rgb(230, 249, 255);
+    color: black;
+}
+
+.about {
+    border: 2px solid rgb(73, 146, 255);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.rombs {
+    list-style-type: none;
+}
+
+.rombs:before {
+    color: black;
+    content: "❖ ";
+    padding-right: 10px;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(46, 105, 154)
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(46, 105, 154)
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
